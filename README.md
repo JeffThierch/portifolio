@@ -1,6 +1,6 @@
-# Portifolio
+# Portfolio'
 
-Meu portfolio de Desenvolvimento Web
+A ideia desse portfolio é permitir que eu aprenda e coloque em praticas as diversas maneiras de posicionamento, design, utilizaçao do git e github, fortalecendo assim minha base de HTML, CSS e JS.
 
 ## Tarefas 
 
