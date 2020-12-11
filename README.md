@@ -1,6 +1,6 @@
-# Portfolio'
+# Portfolio
 
-A ideia desse portfolio é permitir que eu aprenda e coloque em praticas as diversas maneiras de posicionamento, design, utilizaçao do git e github, fortalecendo assim minha base de HTML, CSS e JS.
+A ideia desse portfolio é permitir que eu aprenda e coloque em praticas as diversas maneiras de Posicionamento, Design, Utilizaçao do Git e GitHub, fortalecendo assim minha base de HTML, CSS e JS.
 
 ## Tarefas 
 
